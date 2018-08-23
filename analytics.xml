@@ -1,0 +1,47 @@
+<root>
+   <name>Analytics(Metabase Integration)</name>
+   <key>analytics</key>
+   <state>stable</state>
+   <logo>https://avatars1.githubusercontent.com/u/27661787?s=200&v=4</logo>
+   <description>
+      <short>
+         <en>Analytics plugin integrates GLPI with Metabase.</en>
+      </short>
+      <long>
+         <en>Analytics plugin integrates GLPI with Metabase
+
+             Features:
+
+               * Fetch Metabase dashboards and questions and sync with GLPI.
+               * Access Management for dashboards and questions on the basis of Groups or Profiles
+               * Integrate Meatabase dashboards and questions into GLPI
+
+          </en>
+      </long>
+   </description>
+   <homepage>https://github.com/Unotechsoftware/analytics</homepage>
+   <download>https://github.com/Unotechsoftware/analytics/releases</download>
+   <issues>https://github.com/Unotechsoftware/analytics/issues</issues>
+   <readme>https://github.com/Unotechsoftware/analytics/blob/master/README.md</readme>
+   <authors>
+      <author>Unotech Software</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.0.0</num>
+         <compatibility>9.3</compatibility>
+         <compatibility>9.2</compatibility>
+      </version>
+   </versions>
+   <langs>
+      <lang>en_GB</lang>
+   </langs>
+   <license>GPL V3+</license>
+   <screenshots>
+      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_analytics_config.png</screenshot>
+      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_analytics_cron.png</screenshot>
+      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_Analytics_access_list.png</screenshot>
+      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_Analytics_access.png</screenshot>
+      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_analytics_Dashboard.png</screenshot>
+   </screenshots>
+</root>
