@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <root>
    <name>Analytics(Metabase Integration)</name>
    <key>analytics</key>
    <state>stable</state>
-   <logo>https://avatars1.githubusercontent.com/u/27661787?s=200&v=4</logo>
+   <logo>https://github.com/Unotechsoftware/analytics/blob/vikijha-patch-1/screenshot/analytics_logo.png</logo>
    <description>
       <short>
          <en>Analytics plugin integrates GLPI with Metabase.</en>
