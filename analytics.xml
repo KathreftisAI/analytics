@@ -38,6 +38,17 @@
       <lang>en_GB</lang>
    </langs>
    <license>GPL V3+</license>
+   <tags>
+      <en>
+         <tag>Analytics</tag>
+         <tag>Reporting</tag>
+         <tag>Data-vizualisation</tag>
+         <tag>Business-intelligence</tag>
+         <tag>Dashboard</tag>
+         <tag>Statistics</tag>
+         <tag>Metabase</tag>
+      </en>
+   </tags>
    <screenshots>
       <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_analytics_config.png</screenshot>
       <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_analytics_cron.png</screenshot>
