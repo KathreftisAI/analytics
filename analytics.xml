@@ -3,7 +3,7 @@
    <name>Analytics(Metabase Integration)</name>
    <key>analytics</key>
    <state>stable</state>
-   <logo>https://github.com/Unotechsoftware/analytics/blob/vikijha-patch-1/screenshot/analytics_logo.png</logo>
+   <logo>https://raw.githubusercontent.com/Unotechsoftware/analytics/master/screenshot/analytics_logo.png</logo>
    <description>
       <short>
          <en>Analytics plugin integrates GLPI with Metabase.</en>
@@ -50,10 +50,10 @@
       </en>
    </tags>
    <screenshots>
-      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_analytics_config.png</screenshot>
-      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_analytics_cron.png</screenshot>
-      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_Analytics_access_list.png</screenshot>
-      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_Analytics_access.png</screenshot>
-      <screenshot>https://github.com/Unotechsoftware/analytics/blob/master/screenshot/GLPI_analytics_Dashboard.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/Unotechsoftware/analytics/master/screenshot/GLPI_analytics_config.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/Unotechsoftware/analytics/master/screenshot/GLPI_analytics_cron.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/Unotechsoftware/analytics/master/screenshot/GLPI_Analytics_access_list.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/Unotechsoftware/analytics/master/screenshot/GLPI_Analytics_access.png</screenshot>
+      <screenshot>https://raw.githubusercontent.com/Unotechsoftware/analytics/master/screenshot/GLPI_analytics_Dashboard.png</screenshot>
    </screenshots>
 </root>
