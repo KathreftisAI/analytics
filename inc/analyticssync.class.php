@@ -432,7 +432,7 @@ class PluginAnalyticsAnalyticssync extends CommonDBTM {
    {  
        global $DB;
 
-      $query = "DELETE FROM felicity_plug.glpi_plugin_analytics_analyticsaccesses where syncid =".$ID;
+      $query = "DELETE FROM glpi_plugin_analytics_analyticsaccesses where syncid =".$ID;
       $DB->query($query);
 
    }
