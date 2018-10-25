@@ -26,7 +26,7 @@
  --------------------------------------------------------------------------
  */
 
-define('PLUGIN_ANALYTICS_VERSION', '1.0.1');
+define('PLUGIN_ANALYTICS_VERSION', '1.0.2');
 
 /**
  * Init hooks of the plugin.
