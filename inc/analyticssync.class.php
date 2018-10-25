@@ -330,13 +330,13 @@ class PluginAnalyticsAnalyticssync extends CommonDBTM {
         $profileIds .= ',';
        }
      }
-     //if there is no group than pass 0 as id for query
+     //if there is no group than pass -1 as id for query
      if ($groupCounts == 0) {
-       $groupIds='0';
+       $groupIds='-1';
      }
-      //if there is no profile than pass 0 as id for query
+      //if there is no profile than pass -1 as id for query
      if ($profileCounts == 0) {
-       $profileIds='0';
+       $profileIds='-1';
      }
 
 
